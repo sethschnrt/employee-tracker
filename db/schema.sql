@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS employeeTracker_db;
 CREATE DATABASE employeeTracker_db;
-USE employee employeeTracker_db;
+USE employeeTracker_db;
 
 -- Table for company departments
 
@@ -27,5 +27,5 @@ CREATE TABLE employees (
     last_name VARCHAR(30) NOT NULL,
     role_id INT,
     manager_id INT,
-    FOREIGN KEY (rold_id) REFERENCES roles(id) ON DELETE SET NULL
+    FOREIGN KEY (role_id) REFERENCES roles(id) ON DELETE SET NULL
 );
