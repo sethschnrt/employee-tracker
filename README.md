@@ -28,3 +28,9 @@ To use this app, start by running "npm start", after this command is ran, the ap
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [sethschnrt](https://github.com/sethschnrt/).
+
+## Showcase Video
+https://drive.google.com/file/d/1-nhiaZHOisiYaXyzUOZSkfoI4LrXf7ep/view
+
+## Screenshot
+![image](https://github.com/sethschnrt/employee-tracker/assets/127680441/347d80d6-e9be-4847-83bd-2cb1dc58f684)
